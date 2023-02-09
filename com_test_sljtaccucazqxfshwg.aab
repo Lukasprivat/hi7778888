@@ -1,0 +1,162 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US" dir="LTR">
+<head><meta name="description" content="Create stunning Android app in 5 minutes! Free and no coding required! 100% pure native code! Support RSS/Atom, HTML5, Podcast, YouTube, Blogger, Instagram, Pinterest, Tumblr, Twitter, Wordpress." /><meta name="keywords" content="app creator,create android app,android app creator,make android app, android app builder,make your own android app,app maker android,make mobile app,create mobile app,Android, Rss, Atom, Feed, Reader, Custom Android Application Development, Custom Android App, Create Android App From Rss, Develop Apps for Android,android app maker, Native TapaTalk API, Native Tapatalk, Tapatalk, Tapatalk Integration" /><meta http-equiv="x-ua-compatible" content="IE=edge" /><title>
+	AppYet - Sign In
+</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css" /><link rel="stylesheet" type="text/css" href="CSS/Site.css?v2.89" /><link rel="stylesheet" type="text/css" href="CSS/farbtastic.css" /><link rel="manifest" href="manifest.json" /><link rel="icon" type="image/png" href="favicon-32x32.png" /><link rel="shortcut icon" sizes="32x32" href="favicon-32x32.png" /><link rel="shortcut icon" sizes="192x192" href="android-chrome-192x192.png" /><link rel="apple-touch-icon-precomposed" href="android-chrome-192x192.png" /><meta name="mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta name="apple-mobile-web-app-title" content="AppYet" /><meta name="msapplication-TileColor" content="#185886" /><meta name="theme-color" content="#185886" />
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="AppYet - App Creator | Create Android App FREE!" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" /><meta property="og:url" content="https://appyet.com/" /><meta property="og:title" content="AppYet - App Creator | Create Android App FREE!" /><meta property="og:description" content="Create a stunning Android app in 5 minutes! Free and no coding required! 100% pure native code!" /><meta property="og:image" content="http://appyet.com/favicon/android-chrome-512x512.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" /><meta property="twitter:url" content="https://metatags.io/" /><meta property="twitter:title" content="AppYet - App Creator | Create Android App FREE!" /><meta property="twitter:description" content="Create a stunning Android app in 5 minutes! Free and no coding required! 100% pure native code!" /><meta property="twitter:image" content="http://appyet.com/favicon/android-chrome-512x512.png" /></head>
+<body>
+    <form method="post" action="./SignIn?from=https%3a%2f%2fwww.appyet.com%2fMyAppSubmit%3faguid%3dcf100ba2-7b3c-40c7-90f5-be239df3ff20" id="formMaster">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="TnYWX2pwxINLRFkaMjEQtsfwcj8tPtSPjKhmNFk10Yil+r0YBgLcabsBFfOCZBwqeJfNGf6mvXTM5EZTS/7BqUj7RX26TzVzUYJCVGKH0/xeQJrplxBlqSvisvRaG0peTZIMRsGfE+VrdUUlgbFloE6IWLtKb/IWlmU6ESK41DlQYHQpuUc0DcBFk569D/8lmWU3OUE7YIdD2jGXgQzYHMV27jyN/iz24TIt0/CVInQjlJgXJaBNgKlrcikGoyrg7g5dXXUk7bgTWWzOyEmo1QwyxkjiM5bc00Bg9+ME5+U=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="ECDA716A" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="eS5i2rJfHSKPl1IvBTzcGJgFV4ophY6A9r254hDiGOGXowNb7vJ3nUs+ELWdCbaxW8GKqr7LAxFJcjxrOSJLbhTajbMlQtiE+fAYuZYg9PS1Pe3JZedQOWb/Cbo46l2v7Qt7XBWZHkwpymHTeQ+JI2pXk0lx38SFSOUVvuoo1MVlkNdi//BijMVsJrITDEYH" />
+        <div class="page">
+            <div class="header">
+                <div class="logo">
+                    <a href="/">
+                        <img src="/img/logo.png?v2" height="32px" /></a>
+                </div>
+                <div class="container dark">
+                    <div class="last session">
+                        <ul class="horizontal" role="navigation">
+                            <li style="line-height: 28px; margin-right: 20px;"><a class="button top" href="/Create2">Create App</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="menu">
+                    <ul>
+
+                        
+                        
+                            <li><a href="/">Home
+                            </a></li>
+                            <li><a href="Default#features">Features</a></li>
+                            <li><a href="https://appyet.com/forum/index.php">Support
+                            </a></li>
+                            <li><a href="https://appyet.com/forum/index.php?forums/showcase.15/">Showcase</a></li>
+                            <li><a href="SignIn" id="HeadLoginStatus">Sign In
+                            </a></li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                
+    <div class="bodycontent">
+        <div class="bodycontentheader">
+        </div>
+        <div class="bodycontentpage">
+            <div class="page_title">
+                <h1 style="font-weight: bold; color: #222222">
+                    Please sign in</h1>
+            </div>
+            
+<div class="clearfix">
+    
+    
+</div>
+            <div class="form">
+                <div class="row">
+                    <div class="label">
+                        Email:</div>
+                    <div class="field">
+                        <input name="ctl00$MainContent$txtEmail" type="text" id="MainContent_txtEmail" />
+                        
+                        </div>
+                </div>
+                <div class="row">
+                    <div class="label">
+                        Password:</div>
+                    <div class="field">
+                        <input name="ctl00$MainContent$txtPassword" type="password" id="MainContent_txtPassword" />
+                        </div>
+                </div>
+                <div class="row">
+                    <div class="label">
+                        &nbsp;</div>
+                    <div class="field">
+                        <input id="MainContent_chkRemember" type="checkbox" name="ctl00$MainContent$chkRemember" /><label for="MainContent_chkRemember">Remember me</label>
+                    </div>
+                </div>
+               
+                <div class="row">
+                    <div class="label">
+                        &nbsp;</div>
+                    <div class="field">
+                        <input type="submit" name="ctl00$MainContent$btnSubmit" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$btnSubmit&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="MainContent_btnSubmit" class="button" /></div>
+                </div>
+                <div class="row">
+                    <div class="label">
+                        &nbsp;</div>
+                    <div class="field">
+                        <a href="/ForgetPassword">Forgot your password?</a></div>
+                </div>
+                <div class="row">
+                    <div class="label">
+                        &nbsp;</div>
+                    <div class="field">
+                        <div><p><b>New to AppYet?</b></p></div>
+                        <p>Create a new account! It's quick, it's easy, and you'll making your first app in
+                        about 30 seconds.</p></div>
+                </div>
+                <div class="row">
+                    <div class="label">
+                        &nbsp;</div>
+                    <div class="field">
+                        <input value="Sign up" class="button" onclick="location.href = '/SignUp';" type="button"/>
+                    </div>
+                </div>
+            </div>
+            <div class="help">
+            </div>
+        </div>
+    </div>
+
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div id="footer" class="footer dark ">
+            <div class="container">
+                <div class="span-5">
+                    <p class="legal">
+                        <a href="https://appyet.com/forum/index.php">Help &amp; Support</a> | <a href="/Terms">Terms of Service</a>
+                        | <a href="/Privacy">Privacy Policy</a> | <a href="/DMCA">DMCA</a>
+                        <br>
+                        <br>
+                        &copy; 2020 AppYet.com
+                    </p>
+                    <div style="width: 300px; margin: auto">
+                        <div class="sharethis-inline-share-buttons"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p>
+            &nbsp;
+        </p>
+    </form>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5eb1e3f308cfa2001202b09c&product=inline-share-buttons&cms=sop' async='async'></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-24128532-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-24128532-1');
+    </script>
+</body>
+</html>
